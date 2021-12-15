@@ -10,6 +10,9 @@ https://drive.google.com/file/d/1jYZjdhSUQwXJlZneBRU5hg0HSyHxpViL/view?usp=shari
 The following specs were used to create the original solution.
 * Google Colab
 
+# Usage
+Open 'find_nuclei.ipynb' in Google Colab and follow the steps.
+
 # References
 This homework is using Mask R-CNN in Facebook detectron2.
 https://github.com/facebookresearch/detectron2
