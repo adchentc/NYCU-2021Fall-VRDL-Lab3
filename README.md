@@ -1,4 +1,4 @@
-# NYCU_VRDL_Instance_Segmentation
+# VRDL Lab3: Instance Segmentation
 This is homework 3 in NYCU Selected Topics in Visual Recognition Deep Learning class.
 
 FOLLOW THE FILE USING GOOGLE COLAB. THE FILE INCLUDE DOWNLOAD DATASET, TRAIN, INFERENCE.
